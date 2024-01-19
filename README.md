@@ -1,4 +1,3 @@
-# learn-flask
 ## Flask, a lightweight web framework for Python 
 Learn Flask with sample simple "Hello World" app
 
